@@ -1,4 +1,5 @@
-**# Fitness Tracker**
+# Exercise Tracker MERN
+
 
 ## Description
 
